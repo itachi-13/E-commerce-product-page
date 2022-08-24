@@ -4,25 +4,11 @@
     font-family: 'Kumbh Sans', sans-serif;
 }
 
-/* 
-- White: hsl(0, 0%, 100%)
-- Black (with 75% opacity for lightbox background): hsl(0, 0%, 0%) */
-
-.aa {
-    color: #ff7d1a;
-    color: hsl(25, 100%, 94%);
-    color: hsl(220, 13%, 13%);
-    color: hsl(217, 9%, 45%);
-    color: hsl(220, 14%, 75%);
-    color: hsl(230, 60%, 98%);
-}
-
 body {
     font-size: 16px;
     padding: 0 100px 50px;
     margin: 0;
-    /* background-color: hsl(223, 64%, 98%); */
-    background-color: black;
+    background-color: hsl(223, 64%, 98%);
     overflow-x: hidden;
 }
 
